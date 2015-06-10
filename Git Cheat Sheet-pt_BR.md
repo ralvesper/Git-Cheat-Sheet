@@ -10,19 +10,19 @@ Git Cheat Sheet with git-flow feature
 2. [Chinese Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md)
 3. [Portuguese Brazil Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-pt_BR.md)
 
-Git cheat sheet lhe poupa de aprender todos os comandos de cor.
+O Git cheat sheet lhe poupa de aprender todos os comandos de cor.
 
 Sinta-se livre para contribuir e atualizar os erros gramaticais. Você também é livre para adicionar o arquivo em seu idioma.
 
 <hr>
 
-Git Cheat Sheet English
-===============
+Git Cheat Sheet Portuguese Brazil
+=================================
 
 
-###Index
-* [Create](#create)
-* [Local Changes](#local-changes)
+###Índice
+* [Criação](#create)
+* [Mudanças Locais](#local-changes)
 * [Search](#search)
 * [Commit History](#commit-history)
 * [Branches & Tags](#branches--tags)
@@ -32,20 +32,20 @@ Git Cheat Sheet English
 * [Git Flow](#git-flow)
 
 <hr>
-##Create
+##Criação
 
-#####Clone an existing repository:
+#####Clonar um repositório existente:
 ```
 $ git clone ssh://user@domain.com/repo.git
 ```
 
-#####Create a new local repository:
+#####Criar um novo repositório local:
 ```
 $ git init
 ```
 
 <hr>
-##Local Changes
+##Mudanças Locais
 
 #####Changed files in your working directory:
 ```
@@ -322,7 +322,7 @@ $ git reset --keep <commit>
 * [Features](#features)
 * [Make a Release](#make-a-release)
 * [Hotfixes](#hotfixes)
-* [Commands](#commands)
+* [Comandos](#comandos)
 <hr>
 
 
@@ -444,7 +444,7 @@ git flow hotfix finish VERSION
 <hr>
 
 
-###Commands
+###Comandos
 <p align="center">
     <img alt="Git" src="./Img/git-flow-commands.png" height="270" width="460">
 </p>
