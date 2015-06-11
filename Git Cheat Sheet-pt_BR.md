@@ -1,14 +1,14 @@
-Git Cheat Sheet with git-flow feature
+Git Cheat Sheet com o recurso git-flow
 ===============
 <hr>
 <p align="center">
     <img alt="Git" src="./Img/git-logo.png" height="190" width="455">
 </p>
 <hr>
-# Other Available Languages:
-1. [Turkish Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Tr.md)
-2. [Chinese Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md)
-3. [Portuguese Brazil Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-pt_BR.md)
+# Outros idiomas disponíveis:
+1. [Git Cheat Sheet em Turco](https://github.com/ArslanBilal/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Tr.md)
+2. [Git Cheat Sheet em Chinês](https://github.com/ArslanBilal/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md)
+3. [Git Cheat Sheet em Português do Brasil](https://github.com/ArslanBilal/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-pt_BR.md)
 
 O Git cheat sheet lhe poupa de aprender todos os comandos de cor.
 
@@ -16,8 +16,8 @@ Sinta-se livre para contribuir e atualizar os erros gramaticais. Você também �
 
 <hr>
 
-Git Cheat Sheet Portuguese Brazil
-=================================
+Git Cheat Sheet em Português so Brasil
+======================================
 
 
 ###Índice
